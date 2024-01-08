@@ -3,16 +3,16 @@ html {
     color: #232423;
     font-family: 'Zen Old Mincho', serif;
     -ms-overflow-style: none;
-    scrollbar-width: none;
+    /* scrollbar-width: none; */
 }
 
 body {
     overflow-x: hidden;
 }
 
-body::-webkit-scrollbar {
+/* body::-webkit-scrollbar {
     display: none;
-}
+} */
 
 section {
     max-width: 1400px;
